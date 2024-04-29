@@ -1,3 +1,5 @@
+package Arrays;
+
 public class MultiDimensionalArray{
     public static void main(String[] args) {
         // Declaring and initializing a 2D array

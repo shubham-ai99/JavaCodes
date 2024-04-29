@@ -1,3 +1,5 @@
+package Arrays;
+
 public class FrequencyOfElements {
     public static void main(String[] args) {
         int[] array = {1, 2, 2, 1, 2, 3};
