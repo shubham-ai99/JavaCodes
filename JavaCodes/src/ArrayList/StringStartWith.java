@@ -12,6 +12,7 @@ public class StringStartWith {
         name.add("Kath");
         name.add("Jaya");
 
+        System.out.println("ArrayList  :  " + name);
         ArrayList<String> result = new ArrayList<>();
         for (String str : name
         ) {
@@ -19,6 +20,6 @@ public class StringStartWith {
                 result.add(str);
             }
         }
-        System.out.println(result);
+        System.out.println("Strings that Starts with 'S' : " + result);
     }
 }
