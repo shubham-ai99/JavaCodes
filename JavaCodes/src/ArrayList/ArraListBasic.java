@@ -27,7 +27,7 @@ public class ArraListBasic {
 
         // Checking if an element exists in the ArrayList
         if (names.contains("Alice")) {
-            System.out.println("Alice is present in the list.");
+                System.out.println("Alice is present in the list.");
         } else {
             System.out.println("Alice is not present in the list.");
         }
